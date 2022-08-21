@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Loner010
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning PHP backend 
-- Im just another coder trying to improve their code 
+
 - 📫 Reach me threw my email :Evelynekayisingaglow@gmail.com
